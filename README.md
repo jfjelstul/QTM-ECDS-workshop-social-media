@@ -1,4 +1,4 @@
-# QTM-ECDS Social Median Workshop
+# QTM-ECDS Social Media Workshop
 
 This repository contains the replication materials for the QTM-ECDS Social Media Workshop by Josh Fjelstul, Ph.D.
 
